@@ -1,6 +1,7 @@
 #include <iostream>
+#include "main.h"
 using namespace std;
 
 int main(){
-  cout << "Hello" <<endl;
+  Hello_World();
 }
